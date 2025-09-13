@@ -7,8 +7,8 @@ It includes tables for Owner, Pet, Trainer, Course, and Enrollment.
 
 Files Included:
 
-database/: MySQL script file and Schema.
-diagrams/: screenshots of Hand-drawn Chen Style ER Diagram and UML Style ER Diagram created in mysql.
-report/: short 3 pages project report.
+Database/: MySQL script file and Schema.
+Diagrams/: screenshots of Hand-drawn Chen Style ER Diagram and UML Style ER Diagram created in mysql.
+Report/: short 3 pages project report.
 Created by: Jorge Santana
 CIS 344 - Professor Yanilda Peralta Ramos
